@@ -5,7 +5,7 @@
 
 http://practica-nodepop.alvarodesegovia.xyz/
 
-### Backend con node
+### Back con node
 
 http://back-nodepop.alvarodesegovia.xyz/
 
